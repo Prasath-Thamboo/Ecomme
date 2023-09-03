@@ -1,0 +1,33 @@
+body {
+    margin: 0px; 
+    font-family: 'Montserrat', sans-serif;
+    padding : 0px; 
+
+}
+
+
+       /*---------------Barre de navigation ---------------*/
+nav{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: sticky; 
+    top: 0; 
+}
+
+.onglets{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap : 20px; 
+}
+
+nav .onglets input {
+    margin : 8px; 
+    padding: 8px; 
+    border-radius: 20px;
+    border: none; 
+    background-color: #f2f2f2;
+}
