@@ -130,6 +130,33 @@ header button{
 
 }
 
+/*-------------------------Fin Section produits-----------------------------*/ 
+
+
+
+
+/*-------------------------Section-Video-----------------------------*/ 
+
+
+
+
+.video {
+
+    text-align: center;
+
+}
+
+.video div {
+    margin: 200px;
+}
+
+.video div iframe{
+
+    width: 100%;
+    height: 100%;
+    border: none;
+
+}
 
 
 
